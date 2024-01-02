@@ -1,0 +1,9 @@
+h1{
+    text-align: center;
+}
+
+img{
+    border: solid 20px rgb(28, 216, 21);
+    display: block;
+    margin: auto;
+}
